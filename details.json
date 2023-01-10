@@ -1,0 +1,685 @@
+[
+    {
+        "id":1,
+        "image":"https://i.ibb.co/hMtWmt4/plants.jpg",
+        "name":"Plants",
+        "description":"Different types of plants and how they propogate from initial stage to final stage. it can be done by ourselves with the help of Gizmos.",
+        "category_id":1,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "image":"https://i.ibb.co/f9kDCYG/geometry.jpg",
+        "name":"Geometry",
+        "description":"Geometry, the branch of mathematics concerned with the shape of individual objects, spatial relationships among various objects, and the properties of surrounding space.",
+        "category_id":1,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "image":"https://i.ibb.co/vBG04rH/arithmetic.jpg",
+        "name":"Arithmetic",
+        "description":"Arithmetic is the branch of mathematics that deals with the study of numbers using various operations on them. Basic operations of math are addition, subtraction, multiplication and division.",
+        "category_id":1,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "image":"https://i.ibb.co/8rPsm2r/space.jpg",
+        "name":"Space",
+        "description":"Space is the boundless three-dimensional extent in which objects and events have relative position and direction.",
+        "category_id":1,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "image":"https://i.ibb.co/1vTH5Sb/chemistry.jpg",
+        "name":"chemistry",
+        "description":"Chemistry is the scientific study of the properties and behavior of matter.[1] It is a natural science that covers the elements that make up matter to the compounds made of atoms, molecules and ions: their composition, structure, properties, behavior and the changes they undergo during a reaction with other substances.",
+        "category_id":1,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+
+    {
+        "id":1,
+        "image":"https://i.ibb.co/k4QP8Dc/fractions.jpg",
+        "name":"Fractions",
+        "description":"In Mathematics, fractions are represented as a numerical value, which defines a part of a whole. A fraction can be a portion or section of any quantity out of a whole, where the whole can be any number, a specific value, or a thing.",
+        "category_id":2,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "image":"https://i.ibb.co/FHmmRqj/Decimals.jpg",
+        "name":"Decimals",
+        "description":"Decimal is a number that consists of a whole and a fractional part. Decimal numbers lie between integers and represent numerical value for quantities that are whole plus some part of a whole.",
+        "category_id":2,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "image":"https://i.ibb.co/KzncWhr/proportions.jpg",
+        "name":"Integers and Proportions",
+        "description":"We write proportions to help us establish equivalent ratios and solve for unknown quantities",
+        "category_id":2,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "image":"https://i.ibb.co/brYbgC9/statistics.jpg",
+        "name":"Statistics",
+        "description":"Statistics, the science of collecting, analyzing, presenting, and interpreting data. Data are the facts and figures that are collected, analyzed, and summarized for presentation and interpretation.",
+        "category_id":2,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "image":"https://i.ibb.co/ZhQ9r32/Algebra.jpg",
+        "name":"Algebra",
+        "description":"Algebra  ('reunion of broken parts'), roughly speaking is the study of mathematical symbols and the rules for manipulating these symbols in formulas. Algebra began with computations similar to those of arithmetic, with letters standing for numbers.",
+        "category_id":2,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+
+    {
+        "id":1,
+        "image":"https://i.ibb.co/JzgZM1f/fact.png",
+        "name":"Math Fact Fluency",
+        "description":"The goal of Reflex is fact fluency. By “fluency” we mean that a student is able to retrieve the correct answers to facts from memory almost instantly.",
+        "category_id":3,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"School Site Licence"
+            },
+            {
+                "class_id":2,
+                "class_name":"Teacher Licence"
+            },
+            {
+                "class_id":3,
+                "class_name":"Home User Licence"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "image":"https://i.ibb.co/xzWcPYG/fact-family.png",
+        "name":"Fact Families or Number Family",
+        "description":"Reflex uses a fact family approach when teaching new facts. As you probably already know, a fact family (sometimes called a number family) is a group of related facts that use the same numbers.",
+        "category_id":3,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"School Site Licence"
+            },
+            {
+                "class_id":2,
+                "class_name":"Teacher Licence"
+            },
+            {
+                "class_id":3,
+                "class_name":"Home User Licence"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "image":"https://i.ibb.co/yNvCKNy/indiv-inst.png",
+        "name":"Individualized Instruction",
+        "description":"Reflex adapts itself to each individual student. Over the course of a student’s first few sessions, Reflex learns which facts and families the student is not yet fluent with. It uses this information when making instructional decisions for that student.",
+        "category_id":3,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"School Site Licence"
+            },
+            {
+                "class_id":2,
+                "class_name":"Teacher Licence"
+            },
+            {
+                "class_id":3,
+                "class_name":"Home User Licence"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "image":"https://i.ibb.co/dWKR3Fc/game.png",
+        "name":"Game Based",
+        "description":"In Reflex, practice occurs in fluency development games. These games are a lot of fun and they’re designed to give students serious amounts of practice with answering facts.Students are also motivated to practice because the games provide engagement and challenge.",
+        "category_id":3,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"School Site Licence"
+            },
+            {
+                "class_id":2,
+                "class_name":"Teacher Licence"
+            },
+            {
+                "class_id":3,
+                "class_name":"Home User Licence"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "image":"https://i.ibb.co/djqskFY/reports.png",
+        "name":"Reports",
+        "description":" Reflex continually monitors each student’s performance, and sharing accounts—even for just one session—will compromise the data and hinder student progress.",
+        "category_id":3,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"School Site Licence"
+            },
+            {
+                "class_id":2,
+                "class_name":"Teacher Licence"
+            },
+            {
+                "class_id":3,
+                "class_name":"Home User Licence"
+            }
+        ]
+    },
+
+    {
+        "id":1,
+        "image":"https://i.ibb.co/WDMKhfH/living.jpg",
+        "name":"Living Things",
+        "description":" Living Things are the organisms which possess life and have the ability to eat, grow, respire, reproduce, obtain and use energy",
+        "category_id":4,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "image":"https://i.ibb.co/9vs5xdc/non-living.jpg",
+        "name":"Non-living Things/Man made Things",
+        "description":"Non-living things include rock, water, sand, glass, and sun. None of them shows the characteristics of being alive",
+        "category_id":4,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "image":"https://i.ibb.co/31GVBfd/habitats.jpg",
+        "name":"Food Webs",
+        "description":"A food web is the natural interconnection of food chains and a graphical representation of what-eats-what in an ecological community.",
+        "category_id":4,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "image":"https://i.ibb.co/vJ8b8q6/habitats1.jpg",
+        "name":"Habitats",
+        "description":"A habitat is the home of an animal or a plant. Almost every place on Earth—from the hottest desert to the coldest ice pack—is a habitat for some kinds of animals and plants. Most habitats include a community of animals and plants along with water, oxygen, soil or sand, and rocks.",
+        "category_id":4,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "image":"https://i.ibb.co/4P5Wn2J/eco.jpg",
+        "name":"Eco Awareness",
+        "description":"An awareness around the natural environment and the choices that either promote its well-being or cause it more harm. It is also the awareness that the earth is in need of protection for its survival.",
+        "category_id":4,
+        "grades": [
+            {
+                "grade_id":1,
+                "grade_name":"3-5Years"
+            },
+            {
+                "grade_id":2,
+                "grade_name":"6-8Years"
+            },
+            {
+                "grade_id":3,
+                "grade_name":"9-12Years"
+            }
+        ],
+        "classes": [
+            {
+                "class_id":1,
+                "class_name":"Free"
+            },
+            {
+                "class_id":2,
+                "class_name":"Paid"
+            }
+        ]
+    },
+
+    {
+        "id":1,
+        "name":"Reflex for Administrators",
+        "description":"Admin Set up Videos",
+        "button_name":"GETTING SET UP",
+        "category_id":5
+        
+    },
+    {
+        "id":2,
+        "name":"Setting up Teacher and Students",
+        "description":"Explore Learning quick reference for Administrators.",
+        "button_name":"GETTING SET UP",
+        "category_id":5
+        
+    },
+    {
+        "id":3,
+        "name":"Creating your Administrator Accounts",
+        "description":"How to create your Admin Accounts on Explore learning Products.",
+        "button_name":"GETTING SET UP",
+        "category_id":5
+        
+    },
+    {
+        "id":4,
+        "name":"Virtual Career Day Landing Page",
+        "description":"Inspire your students to explore STEM Careers.",
+        "button_name":"GOING DEEPER",
+        "category_id":5
+       
+    },
+    {
+        "id":5,
+        "name":"Explore Learning Character Coloring Book",
+        "description":"Download this fun Character Coloring Book for Students.",
+        "button_name":"JUST FOR FUN",
+        "category_id":5
+    }
+]
